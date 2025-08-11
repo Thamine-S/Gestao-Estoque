@@ -132,7 +132,7 @@ A ferramenta utiliza conceitos consolidados de gestão de supply chain:
 > ### Projeto ainda em desenvolvimento, melhorias serão adicionadas futuramente
 -----
 
-## 🖼️ Screenshot da Aplicação
+<!---## 🖼️ Screenshot da Aplicação
 
 *(É altamente recomendado adicionar aqui um screenshot ou GIF da sua aplicação em funcionamento para dar uma prévia visual aos visitantes do repositório.)*
 
